@@ -13,7 +13,7 @@
 
 ### 👨🏽‍💻 Sobre Mim
 
-Sou **Engenheiro de Software (Bacharel)** pela **PUC Minas**, com forte atuação em **Java (Spring Boot)** e **React**. 
+Sou **Engenheiro de Software (Bacharel)** pela **PUC Minas**, com forte atuação em **Java (Spring Boot)**, **Python** e **React**. 
 
 Meu foco vai além do código: busco arquiteturas resilientes, escaláveis e a resolução de problemas de negócio através da tecnologia.
 
@@ -29,6 +29,7 @@ Meu foco vai além do código: busco arquiteturas resilientes, escaláveis e a r
 <div style="display: inline_block">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="RabbitMQ" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" />
 </div>
